@@ -1,0 +1,80 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Política de Privacidad — Radar de Setales</title>
+<link rel="stylesheet" href="../assets/style.css">
+</head>
+<body>
+<div class="wrap">
+<a class="back" href="../index.html">← SensiaLabs · Legal</a>
+<h1>Política de Privacidad — Radar de Setales</h1>
+<p class="meta">Última actualización: 5 de julio de 2026</p>
+
+<p><strong>SensiaLabs</strong> (responsable: Daniel Castro, España) desarrolla el
+<strong>Radar de Setales</strong> (la "App"), un cuaderno privado de setales con avisos meteorológicos.
+Contacto: <a href="mailto:sensialabss@gmail.com">sensialabss@gmail.com</a>.</p>
+
+<div class="card">
+<strong>En resumen:</strong> app <em>local-first</em>. Tus setales, notas y ubicaciones se guardan
+<strong>solo en tu dispositivo</strong>. Para darte el pronóstico meteo, lo único que sale de tu móvil es
+una <strong>celda aproximada de ~11 km</strong> (no tu ubicación exacta ni la de tus setales).
+</div>
+
+<h2>1. Datos que tratas y dónde viven</h2>
+<p>Se almacenan exclusivamente en tu dispositivo: tus setales (coordenadas, especie, notas), hallazgos y
+preferencias. No tenemos servidores con estos datos ni podemos verlos.</p>
+
+<h2>2. Ubicación y consulta meteo (importante)</h2>
+<p>La App usa tu ubicación para situar tus setales y para obtener el pronóstico. Para consultar el tiempo:</p>
+<ul>
+<li>Tu coordenada se <strong>redondea a una celda de una rejilla de ~11 km</strong> antes de salir del
+móvil (por ejemplo, la zona <code>es_41.7_-2.5</code>).</li>
+<li>Esa celda aproximada se envía a un servicio propio alojado en <strong>Cloudflare</strong>, que
+obtiene los datos de <strong>Open-Meteo</strong> y los devuelve.</li>
+<li><strong>Nunca enviamos tu posición exacta ni la ubicación concreta de tus setales.</strong> Guardamos
+una copia local del pronóstico por celda para que la App funcione sin cobertura en el monte.</li>
+</ul>
+<p>Como toda petición por internet, el servidor recibe tu dirección IP para poder responder; no la usamos
+para identificarte ni la asociamos a tus setales. Terceros implicados:
+<a href="https://www.cloudflare.com/privacypolicy/">Cloudflare</a> ·
+<a href="https://open-meteo.com/en/terms">Open-Meteo</a>.</p>
+
+<h2>3. Permisos del sistema</h2>
+<ul>
+<li><strong>Ubicación</strong>: para situar setales y calcular la celda meteo. Solo cuando usas la App.</li>
+<li><strong>Notificaciones</strong>: avisos de ventana favorable. Puedes desactivarlas.</li>
+<li><strong>Archivos</strong>: para exportar/compartir tus datos cuando tú lo pidas.</li>
+</ul>
+
+<h2>4. Compras</h2>
+<p>Es de pago único, procesado por <strong>Google Play</strong> y <strong>RevenueCat</strong>
+(validación). Reciben un identificador anónimo de la compra y el recibo, nunca tus setales.
+<a href="https://policies.google.com/privacy">Google</a> ·
+<a href="https://www.revenuecat.com/privacy">RevenueCat</a>.</p>
+
+<h2>5. Datos que NO tratamos</h2>
+<ul>
+<li>No hay cuentas, login ni email.</li>
+<li>No compartimos ni vendemos las ubicaciones de tus setales a nadie.</li>
+<li>No usamos identificadores publicitarios ni analítica de terceros.</li>
+</ul>
+
+<h2>6. Tus derechos</h2>
+<p>Tu información vive en tu dispositivo: edítala o bórrala desde la App, o desinstálala para eliminarla.
+Consultas RGPD/LOPDGDD: <a href="mailto:sensialabss@gmail.com">sensialabss@gmail.com</a>.</p>
+
+<h2>7. Menores</h2>
+<p>La App no está dirigida a menores de 13 años.</p>
+
+<h2>8. Cambios</h2>
+<p>Publicaremos cualquier cambio en esta misma página con su fecha.</p>
+
+<div class="foot">
+SensiaLabs — Daniel Castro (España) · <a href="mailto:sensialabss@gmail.com">sensialabss@gmail.com</a><br>
+Radar de Setales · com.sensialabs.setales
+</div>
+</div>
+</body>
+</html>
