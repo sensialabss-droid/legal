@@ -13,6 +13,7 @@ servidas como sitio estático (GitHub Pages).
 | App | Bundle ID | Privacidad | Condiciones |
 |---|---|---|---|
 | Finanzas Hogar | `com.sensialabs.finanzashogar` | `finanzashogar/privacy.html` | `finanzashogar/terms.html` |
+| JubilaClaro | `com.sensialabs.jubilaclaro` | `jubilaclaro/privacy.html` | `jubilaclaro/terms.html` |
 
 > LuminAura tiene sus propias páginas aparte (suscripción); no se incluye aquí.
 
