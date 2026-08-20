@@ -14,6 +14,7 @@ servidas como sitio estático (GitHub Pages).
 |---|---|---|---|
 | Finanzas Hogar | `com.sensialabs.finanzashogar` | `finanzashogar/privacy.html` | `finanzashogar/terms.html` |
 | JubilaClaro | `com.sensialabs.jubilaclaro` | `jubilaclaro/privacy.html` | `jubilaclaro/terms.html` |
+| RascaEspaña | `com.sensialabs.rascaespana` | `rascaespana/privacy.html` | `rascaespana/terms.html` |
 
 > LuminAura tiene sus propias páginas aparte (suscripción); no se incluye aquí.
 
