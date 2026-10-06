@@ -15,6 +15,7 @@ servidas como sitio estático (GitHub Pages).
 | Finanzas Hogar | `com.sensialabs.finanzashogar` | `finanzashogar/privacy.html` | `finanzashogar/terms.html` |
 | JubilaClaro | `com.sensialabs.jubilaclaro` | `jubilaclaro/privacy.html` | `jubilaclaro/terms.html` |
 | MiNómina a Turnos | `com.sensialabs.minomina` | `minomina/privacy.html` | `minomina/terms.html` |
+| Hucha Voladora | `com.sensialabs.finanzashogarkids` | `finanzashogarkids/privacy.html` | `finanzashogarkids/terms.html` |
 
 > LuminAura tiene sus propias páginas aparte (suscripción); no se incluye aquí.
 
