@@ -18,6 +18,7 @@ servidas como sitio estático (GitHub Pages).
 | Hucha Voladora | `com.sensialabs.finanzashogarkids` | `finanzashogarkids/privacy.html` | `finanzashogarkids/terms.html` |
 | Colmenar | `com.sensialabs.colmenar` | `colmenar/privacy.html` | `colmenar/terms.html` |
 | Farsante | `com.sensialabs.farsante` | `farsante/privacy.html` | `farsante/terms.html` |
+| Agenda de citas | `com.sensialabs.agendacitas` | `agendacitas/privacy.html` | `agendacitas/terms.html` |
 
 > LuminAura tiene sus propias páginas aparte (suscripción); no se incluye aquí.
 
